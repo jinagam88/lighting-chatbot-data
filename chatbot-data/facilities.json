@@ -1,0 +1,1083 @@
+{
+  "schema_version": "1.0",
+  "source": "KBS 스튜디오 조명 시설 현황 관리",
+  "data_updated_at": "2026-08-03",
+  "total": 25,
+  "items": [
+    {
+      "studio_code": "TS-1",
+      "studio_name": "TS-1",
+      "area": "36*27",
+      "seats": 403,
+      "dimmer": {
+        "회로수": 320,
+        "모델": "Eurodim-TT(ADB)",
+        "년도": 2018,
+        "Mimic": "포스인",
+        "Mimic년도": 2018
+      },
+      "console": {
+        "모델": "Duri-M72",
+        "제작사": "Marumo",
+        "년도": 2018
+      },
+      "moving_console": {
+        "모델": "MA2 Ultra",
+        "년도": 2011
+      },
+      "lifting_system": {
+        "조명바턴": 43,
+        "호리바턴": 5,
+        "세트바턴": 11,
+        "계": 59,
+        "Motor": 2014,
+        "L_Batten": 2014,
+        "S_Batten": 2014,
+        "P_cable": 2014,
+        "BCP": "한일티앤씨",
+        "BCP년도": 2014,
+        "그리드": 2014,
+        "호리면적": "30*10"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "Spiider (12ea,2024)",
+        "LED호리": "Lumi Painter (20ea,2017)",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-2",
+      "studio_name": "TS-2",
+      "area": "18*27",
+      "seats": "",
+      "dimmer": {
+        "회로수": 215,
+        "모델": "EC-21(Strand)",
+        "년도": 2011,
+        "Mimic": "포스인",
+        "Mimic년도": 2015
+      },
+      "console": {
+        "모델": "EOS-TI",
+        "제작사": "ETC",
+        "년도": 2018
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 36,
+        "호리바턴": 6,
+        "세트바턴": 10,
+        "계": 42,
+        "Motor": 2015,
+        "L_Batten": 2015,
+        "S_Batten": 2015,
+        "P_cable": 2015,
+        "BCP": "포스텍",
+        "BCP년도": 2015,
+        "그리드": 2015,
+        "호리면적": "45*8"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "Lumi Painter (30ea,2019)",
+        "LED스팟": "",
+        "LEDBase": "alpha*12"
+      }
+    },
+    {
+      "studio_code": "TS-3",
+      "studio_name": "TS-3",
+      "area": "18*27",
+      "seats": "",
+      "dimmer": {
+        "회로수": 215,
+        "모델": "EC-21(Strand)",
+        "년도": 2011,
+        "Mimic": "포스인",
+        "Mimic년도": 2011
+      },
+      "console": {
+        "모델": "ION XE 20",
+        "제작사": "ETC",
+        "년도": 2020
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 36,
+        "호리바턴": 6,
+        "세트바턴": 7,
+        "계": 49,
+        "Motor": 2020,
+        "L_Batten": 2020,
+        "S_Batten": 2020,
+        "P_cable": 2020,
+        "BCP": "포스인",
+        "BCP년도": 2020,
+        "그리드": 2020,
+        "호리면적": "45*8"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-4",
+      "studio_name": "TS-4",
+      "area": "27*27",
+      "seats": "",
+      "dimmer": {
+        "회로수": 447,
+        "모델": "EC-21(Strand)",
+        "년도": 2015,
+        "Mimic": "포스인",
+        "Mimic년도": 2015
+      },
+      "console": {
+        "모델": "Duri-M72",
+        "제작사": "Marumo",
+        "년도": 2015
+      },
+      "moving_console": {
+        "모델": "MA2 Ultra",
+        "년도": 2010
+      },
+      "lifting_system": {
+        "조명바턴": 85,
+        "호리바턴": 7,
+        "세트바턴": 24,
+        "계": 116,
+        "Motor": 2010,
+        "L_Batten": 2010,
+        "S_Batten": 2010,
+        "P_cable": 2010,
+        "BCP": "포스인",
+        "BCP년도": 2010,
+        "그리드": 2010,
+        "호리면적": "60*10"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "Spiider (12ea,2024)",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-5",
+      "studio_name": "TS-5",
+      "area": "15*22.5",
+      "seats": "",
+      "dimmer": {
+        "회로수": 179,
+        "모델": "Eurodim-TT(ADB)",
+        "년도": "",
+        "Mimic": "포스인",
+        "Mimic년도": 2010
+      },
+      "console": {
+        "모델": "ION XE 20",
+        "제작사": "ETC",
+        "년도": 2021
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 31,
+        "호리바턴": 7,
+        "세트바턴": 8,
+        "계": 46,
+        "Motor": 2021,
+        "L_Batten": 2021,
+        "S_Batten": 2021,
+        "P_cable": 2021,
+        "BCP": "포스인",
+        "BCP년도": 2021,
+        "그리드": 2021,
+        "호리면적": "38*10"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-6",
+      "studio_name": "TS-6",
+      "area": "12*15.5",
+      "seats": "",
+      "dimmer": {
+        "회로수": 64,
+        "모델": ".",
+        "년도": "",
+        "Mimic": "",
+        "Mimic년도": ""
+      },
+      "console": {
+        "모델": "MA3 onPC",
+        "제작사": "Ma lighting",
+        "년도": 2024
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 16,
+        "호리바턴": 4,
+        "세트바턴": 6,
+        "계": 26,
+        "Motor": 2011,
+        "L_Batten": 2011,
+        "S_Batten": 2011,
+        "P_cable": 2011,
+        "BCP": "천조",
+        "BCP년도": 2024,
+        "그리드": 2011,
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-7",
+      "studio_name": "TS-7",
+      "area": "12*15.5",
+      "seats": "",
+      "dimmer": {
+        "회로수": 60,
+        "모델": "Remote & Direct Panel",
+        "년도": 2015,
+        "Mimic": "",
+        "Mimic년도": 2015
+      },
+      "console": {
+        "모델": "COGNITO2",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 14,
+        "호리바턴": "",
+        "세트바턴": "",
+        "계": 14,
+        "Motor": 2015,
+        "L_Batten": 2015,
+        "S_Batten": 2015,
+        "P_cable": 2015,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": 2015,
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-11",
+      "studio_name": "TS-11",
+      "area": "15*18",
+      "seats": "",
+      "dimmer": {
+        "회로수": 168,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2007,
+        "Mimic": "Marumo",
+        "Mimic년도": 2007
+      },
+      "console": {
+        "모델": "Avolite Arena",
+        "제작사": "Avolite",
+        "년도": 2019
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": "",
+        "호리바턴": "",
+        "세트바턴": "",
+        "계": "",
+        "Motor": "",
+        "L_Batten": "",
+        "S_Batten": "",
+        "P_cable": "",
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-12",
+      "studio_name": "TS-12",
+      "area": "15*18",
+      "seats": "",
+      "dimmer": {
+        "회로수": 168,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2007,
+        "Mimic": "Marumo",
+        "Mimic년도": 2007
+      },
+      "console": {
+        "모델": "ION XE 20",
+        "제작사": "ETC",
+        "년도": 2020
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 33,
+        "호리바턴": 7,
+        "세트바턴": 9,
+        "계": 49,
+        "Motor": 2007,
+        "L_Batten": 2007,
+        "S_Batten": 2007,
+        "P_cable": 2007,
+        "BCP": "포스인",
+        "BCP년도": 2007,
+        "그리드": 2007,
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": "alpha*24"
+      }
+    },
+    {
+      "studio_code": "TS-13",
+      "studio_name": "TS-13",
+      "area": "15*18",
+      "seats": "",
+      "dimmer": {
+        "회로수": 155,
+        "모델": "EC-21(Strand)",
+        "년도": 2011,
+        "Mimic": "한일",
+        "Mimic년도": 2011
+      },
+      "console": {
+        "모델": "ION XE 20",
+        "제작사": "ETC",
+        "년도": 2022
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 33,
+        "호리바턴": 6,
+        "세트바턴": 3,
+        "계": 31,
+        "Motor": 2011,
+        "L_Batten": 2011,
+        "S_Batten": 2011,
+        "P_cable": 2011,
+        "BCP": "포스인",
+        "BCP년도": 2011,
+        "그리드": 2011,
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-14",
+      "studio_name": "TS-14",
+      "area": "15*18",
+      "seats": "",
+      "dimmer": {
+        "회로수": 155,
+        "모델": "EC-21(Strand)",
+        "년도": 2011,
+        "Mimic": "한일",
+        "Mimic년도": 2011
+      },
+      "console": {
+        "모델": "ION XE 20",
+        "제작사": "ETC",
+        "년도": 2022
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 33,
+        "호리바턴": 6,
+        "세트바턴": 3,
+        "계": 31,
+        "Motor": 2011,
+        "L_Batten": 2011,
+        "S_Batten": 2011,
+        "P_cable": 2011,
+        "BCP": "포스인",
+        "BCP년도": 2011,
+        "그리드": 2011,
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-15",
+      "studio_name": "TS-15",
+      "area": "30*45",
+      "seats": 533,
+      "dimmer": {
+        "회로수": 322,
+        "모델": "Eurodim-3(ADB)",
+        "년도": 2005,
+        "Mimic": "한삼",
+        "Mimic년도": 2024
+      },
+      "console": {
+        "모델": "Duri-M72",
+        "제작사": "Marumo",
+        "년도": 2013
+      },
+      "moving_console": {
+        "모델": "Grand MA3",
+        "년도": 2019
+      },
+      "lifting_system": {
+        "조명바턴": 65,
+        "호리바턴": 7,
+        "세트바턴": 15,
+        "계": 87,
+        "Motor": 2009,
+        "L_Batten": 2009,
+        "S_Batten": 2021,
+        "P_cable": 2009,
+        "BCP": "포스인",
+        "BCP년도": 2009,
+        "그리드": 2009,
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "Forte (12ea,2025) Eurus (36ea,2022)",
+        "Moving_Wash": "B-eye (50ea,2017)",
+        "LED호리": "",
+        "LED스팟": "Desisty*12 alpha2K*50",
+        "LEDBase": "yegrin*20"
+      }
+    },
+    {
+      "studio_code": "KBS홀",
+      "studio_name": "KBS홀",
+      "area": "",
+      "seats": "1,627 (가변140)",
+      "dimmer": {
+        "회로수": 810,
+        "모델": "Eurodim-3(ADB)",
+        "년도": 2006,
+        "Mimic": "한삼",
+        "Mimic년도": 2006
+      },
+      "console": {
+        "모델": "Duri-M72",
+        "제작사": "Marumo",
+        "년도": 2019
+      },
+      "moving_console": {
+        "모델": "MA2 Full",
+        "년도": 2014
+      },
+      "lifting_system": {
+        "조명바턴": 27,
+        "호리바턴": 1,
+        "세트바턴": 19,
+        "계": 47,
+        "Motor": 2001,
+        "L_Batten": "1990 2002",
+        "S_Batten": "",
+        "P_cable": 2002,
+        "BCP": "세원공업",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": "24*12"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "VL3600 (12ea,2024) MMX (36ea,2011)",
+        "Moving_Wash": "B-eye (30ea,2021) LED-wash (40ea,2013)",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-A",
+      "studio_name": "TS-A",
+      "area": "26*39",
+      "seats": "",
+      "dimmer": {
+        "회로수": "",
+        "모델": "Eurodim-TT(ADB)",
+        "년도": 2014,
+        "Mimic": "포스인",
+        "Mimic년도": 2014
+      },
+      "console": {
+        "모델": "Duri-M72",
+        "제작사": "Marumo",
+        "년도": 2014
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 82,
+        "호리바턴": 14,
+        "세트바턴": 16,
+        "계": 112,
+        "Motor": 2003,
+        "L_Batten": 2003,
+        "S_Batten": 2003,
+        "P_cable": 2014,
+        "BCP": "포스인",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-B",
+      "studio_name": "TS-B",
+      "area": "18*33",
+      "seats": "",
+      "dimmer": {
+        "회로수": 270,
+        "모델": "Eurodim-3(ADB)",
+        "년도": 2006,
+        "Mimic": "",
+        "Mimic년도": 2006
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 48,
+        "호리바턴": 6,
+        "세트바턴": "",
+        "계": 54,
+        "Motor": 2006,
+        "L_Batten": 2006,
+        "S_Batten": 2006,
+        "P_cable": 2006,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-C",
+      "studio_name": "TS-C",
+      "area": "25*33",
+      "seats": "",
+      "dimmer": {
+        "회로수": 390,
+        "모델": "EC-21(Strand)",
+        "년도": 2009,
+        "Mimic": "청운전기",
+        "Mimic년도": 2006
+      },
+      "console": {
+        "모델": "Duri-M72",
+        "제작사": "Marumo",
+        "년도": 2014
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 63,
+        "호리바턴": 7,
+        "세트바턴": 12,
+        "계": 82,
+        "Motor": 2001,
+        "L_Batten": 2001,
+        "S_Batten": 2001,
+        "P_cable": 2009,
+        "BCP": "세원SDS",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-D",
+      "studio_name": "TS-D",
+      "area": "30*45",
+      "seats": 432,
+      "dimmer": {
+        "회로수": "",
+        "모델": "",
+        "년도": 2023,
+        "Mimic": "한삼",
+        "Mimic년도": 2023
+      },
+      "console": {
+        "모델": "Duri-M72",
+        "제작사": "Marumo",
+        "년도": 2023
+      },
+      "moving_console": {
+        "모델": "MA3 Full",
+        "년도": 2020
+      },
+      "lifting_system": {
+        "조명바턴": 66,
+        "호리바턴": 7,
+        "세트바턴": 11,
+        "계": 84,
+        "Motor": 2023,
+        "L_Batten": 2023,
+        "S_Batten": 2023,
+        "P_cable": 2023,
+        "BCP": "포스인",
+        "BCP년도": 2023,
+        "그리드": 2023,
+        "호리면적": "45*10"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "VL2600 (24ea,2019)",
+        "Moving_Wash": "Spiider (50ea,2020)",
+        "LED호리": "Painter (10ea,2021)",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-21",
+      "studio_name": "TS-21",
+      "area": "27*30",
+      "seats": "",
+      "dimmer": {
+        "회로수": 648,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2001,
+        "Mimic": "쟈스텍",
+        "Mimic년도": 2001
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 96,
+        "호리바턴": 22,
+        "세트바턴": 26,
+        "계": 144,
+        "Motor": 2000,
+        "L_Batten": 2016,
+        "S_Batten": 2016,
+        "P_cable": 2000,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": "61*10.5"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-22",
+      "studio_name": "TS-22",
+      "area": "27*30",
+      "seats": "",
+      "dimmer": {
+        "회로수": 648,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2001,
+        "Mimic": "쟈스텍",
+        "Mimic년도": 2001
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 96,
+        "호리바턴": 23,
+        "세트바턴": 26,
+        "계": 145,
+        "Motor": 2000,
+        "L_Batten": 2000,
+        "S_Batten": 2000,
+        "P_cable": 2000,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": "61*10.5"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-23",
+      "studio_name": "TS-23",
+      "area": "27*24",
+      "seats": "",
+      "dimmer": {
+        "회로수": 510,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2001,
+        "Mimic": "쟈스텍",
+        "Mimic년도": 2001
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 72,
+        "호리바턴": 19,
+        "세트바턴": 20,
+        "계": 111,
+        "Motor": 2000,
+        "L_Batten": 2000,
+        "S_Batten": 2000,
+        "P_cable": 2000,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": "61*10.5"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-24",
+      "studio_name": "TS-24",
+      "area": "27*36",
+      "seats": "",
+      "dimmer": {
+        "회로수": 788,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2001,
+        "Mimic": "쟈스텍",
+        "Mimic년도": 2001
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 120,
+        "호리바턴": 34,
+        "세트바턴": 25,
+        "계": 179,
+        "Motor": 2000,
+        "L_Batten": 2000,
+        "S_Batten": 2000,
+        "P_cable": 2000,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": "61*10.5"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-25",
+      "studio_name": "TS-25",
+      "area": "27*24",
+      "seats": "",
+      "dimmer": {
+        "회로수": 510,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2001,
+        "Mimic": "",
+        "Mimic년도": 2001
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 72,
+        "호리바턴": 19,
+        "세트바턴": 20,
+        "계": 111,
+        "Motor": 2000,
+        "L_Batten": 2000,
+        "S_Batten": 2000,
+        "P_cable": 2000,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": "61*10.5"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "TS-26",
+      "studio_name": "TS-26",
+      "area": "27*36",
+      "seats": "",
+      "dimmer": {
+        "회로수": 788,
+        "모델": "MDC 200V(Marumo)",
+        "년도": 2001,
+        "Mimic": "쟈스텍",
+        "Mimic년도": 2001
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "",
+        "년도": ""
+      },
+      "lifting_system": {
+        "조명바턴": 120,
+        "호리바턴": 34,
+        "세트바턴": 25,
+        "계": 179,
+        "Motor": 2000,
+        "L_Batten": 2000,
+        "S_Batten": 2000,
+        "P_cable": 2000,
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": "61*10.5"
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "LS-1",
+      "studio_name": "LS-1",
+      "area": "9.5*4.6",
+      "seats": "",
+      "dimmer": {
+        "회로수": "",
+        "모델": "",
+        "년도": "",
+        "Mimic": "",
+        "Mimic년도": ""
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "Grand MA3",
+        "년도": 2025
+      },
+      "lifting_system": {
+        "조명바턴": "",
+        "호리바턴": "",
+        "세트바턴": "",
+        "계": "",
+        "Motor": "",
+        "L_Batten": "",
+        "S_Batten": "",
+        "P_cable": "",
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    },
+    {
+      "studio_code": "LS-A",
+      "studio_name": "LS-A",
+      "area": "5.4*4.6",
+      "seats": "",
+      "dimmer": {
+        "회로수": "",
+        "모델": "",
+        "년도": "",
+        "Mimic": "",
+        "Mimic년도": ""
+      },
+      "console": {
+        "모델": "",
+        "제작사": "",
+        "년도": ""
+      },
+      "moving_console": {
+        "모델": "Grand MA2",
+        "년도": 2011
+      },
+      "lifting_system": {
+        "조명바턴": "",
+        "호리바턴": "",
+        "세트바턴": "",
+        "계": "",
+        "Motor": "",
+        "L_Batten": "",
+        "S_Batten": "",
+        "P_cable": "",
+        "BCP": "",
+        "BCP년도": "",
+        "그리드": "",
+        "호리면적": ""
+      },
+      "lighting_equipment": {
+        "Moving_Spot": "",
+        "Moving_Wash": "",
+        "LED호리": "",
+        "LED스팟": "",
+        "LEDBase": ""
+      }
+    }
+  ]
+}
