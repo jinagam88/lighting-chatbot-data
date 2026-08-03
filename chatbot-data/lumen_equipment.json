@@ -1,9 +1,34 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:39:48.654Z",
-  "total": 5,
+  "generated_at": "2026-08-03T05:39:49.849Z",
+  "total": 6,
   "items": [
+    {
+      "id": "15",
+      "name": "VL3600",
+      "manufacturer": "Vari-Lite",
+      "type": "UNSPECIFIED",
+      "power_w": 1475,
+      "power_modes": null,
+      "weight_kg": "48.00",
+      "height_cm": "79.90",
+      "width_cm": "34.00",
+      "light_source": null,
+      "beam_angle": "5.5°–50°",
+      "illuminance": [
+        "108,000 lx @ 5m"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "14",
       "name": "ESPRITE",
