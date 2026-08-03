@@ -1,9 +1,97 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:39:42.559Z",
-  "total": 1,
+  "generated_at": "2026-08-03T05:39:44.615Z",
+  "total": 4,
   "items": [
+    {
+      "id": "13",
+      "name": "MMX Spot",
+      "manufacturer": "Robe Lighting",
+      "type": "UNSPECIFIED",
+      "power_w": 1020,
+      "power_modes": null,
+      "weight_kg": "25.50",
+      "height_cm": "72.20",
+      "width_cm": "44.60",
+      "light_source": null,
+      "beam_angle": "8.5°–46.5°",
+      "illuminance": [
+        "26141 lm"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "12",
+      "name": "Spiider",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 660,
+      "power_modes": null,
+      "weight_kg": "13.30",
+      "height_cm": "47.70",
+      "width_cm": "39.00",
+      "light_source": null,
+      "beam_angle": "4°–50°",
+      "illuminance": [
+        "13.700 lm (integrating sphere)",
+        "11.000 lm (goniophotometer)"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-D",
+          "name": "TS-D"
+        },
+        {
+          "code": "TS-1",
+          "name": "TS-1"
+        },
+        {
+          "code": "TS-4",
+          "name": "TS-4"
+        },
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "11",
+      "name": "HY B-EYE K15",
+      "manufacturer": "Claypaky",
+      "type": "UNSPECIFIED",
+      "power_w": 700,
+      "power_modes": null,
+      "weight_kg": "20.70",
+      "height_cm": "43.80",
+      "width_cm": "39.10",
+      "light_source": null,
+      "beam_angle": "4°-60°",
+      "illuminance": [
+        "13500 lm"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "10",
       "name": "ROBIN 1200 LEDWash",
