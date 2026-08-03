@@ -1,9 +1,80 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:39:52.821Z",
-  "total": 8,
+  "generated_at": "2026-08-03T05:39:55.046Z",
+  "total": 11,
   "items": [
+    {
+      "id": "1",
+      "name": "BMFL Spot",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 1300,
+      "power_modes": null,
+      "weight_kg": "37.00",
+      "height_cm": "0.00",
+      "width_cm": "0.00",
+      "light_source": "BMFL 디스차지",
+      "beam_angle": "5°–55°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "7",
+      "name": "Sharpy",
+      "manufacturer": "Clay Paky",
+      "type": "MOVING",
+      "power_w": 440,
+      "power_modes": null,
+      "weight_kg": "16.00",
+      "height_cm": "47.50",
+      "width_cm": "34.50",
+      "light_source": "189W 램프",
+      "beam_angle": "0°–3.8°",
+      "illuminance": [
+        "59,760 lx @ 20m"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "18",
+      "name": "AL L1000 PRO",
+      "manufacturer": "ACELITES",
+      "type": "UNSPECIFIED",
+      "power_w": 1150,
+      "power_modes": null,
+      "weight_kg": "35.00",
+      "height_cm": "76.70",
+      "width_cm": "41.70",
+      "light_source": null,
+      "beam_angle": "6°–56°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "17",
       "name": "EURUS",
