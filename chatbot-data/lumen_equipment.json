@@ -1,29 +1,9 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T07:26:32.783Z",
-  "total": 12,
+  "generated_at": "2026-08-03T07:26:59.644Z",
+  "total": 11,
   "items": [
-    {
-      "id": "21",
-      "name": "A.LEDA B-EYE K20",
-      "manufacturer": "Claypaky",
-      "type": "MOVING",
-      "power_w": 750,
-      "power_modes": null,
-      "weight_kg": "21.00",
-      "height_cm": "54.00",
-      "width_cm": "38.70",
-      "light_source": "37 Osram Ostar RGBW LEDs (15W nominal wattage)",
-      "beam_angle": "4°-60°",
-      "illuminance": [
-        "14,000 lm (integrating sphere)"
-      ],
-      "verified": false,
-      "has_manual": false,
-      "studios": [],
-      "updated_at": null
-    },
     {
       "id": "11",
       "name": "HY B-EYE K15",
