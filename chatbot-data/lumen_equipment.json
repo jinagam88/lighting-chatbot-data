@@ -1,7 +1,31 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:37:02.858Z",
-  "total": 0,
-  "items": []
+  "generated_at": "2026-08-03T05:39:42.559Z",
+  "total": 1,
+  "items": [
+    {
+      "id": "10",
+      "name": "ROBIN 1200 LEDWash",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 680,
+      "power_modes": null,
+      "weight_kg": "18.00",
+      "height_cm": "57.00",
+      "width_cm": "43.90",
+      "light_source": null,
+      "beam_angle": "8°–63°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    }
+  ]
 }
