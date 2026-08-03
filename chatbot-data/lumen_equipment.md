@@ -3,23 +3,8 @@
 > 이 문서는 LUMEN 조명 장비 포탈의 보드 등록 장비(`on_board = true`)만 자동 정리한 챗봇용 데이터입니다.
 > 장비 수치 사양은 이 문서에 있는 값만 사용하며, 없는 값은 추정하지 않습니다.
 
-- 데이터 생성 시각: 2026-08-03T07:26:32.783Z
-- 현재 등록 장비 수: 12종
-
-## Claypaky A.LEDA B-EYE K20
-- 장비 ID: 21
-- 제조사: Claypaky
-- 모델명: A.LEDA B-EYE K20
-- 유형: MOVING
-- 소비전력: 750W
-- 중량: 21.00kg
-- 높이: 54.00cm
-- 폭: 38.70cm
-- 광원: 37 Osram Ostar RGBW LEDs (15W nominal wattage)
-- 빔각: 4°-60°
-- 조도: 14,000 lm (integrating sphere)
-- 검수 상태: 미검수
-- 매뉴얼: 등록되지 않음
+- 데이터 생성 시각: 2026-08-03T07:26:59.644Z
+- 현재 등록 장비 수: 11종
 
 ## Claypaky HY B-EYE K15
 - 장비 ID: 11
