@@ -1,7 +1,31 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:01:28.917Z",
-  "total": 0,
-  "items": []
+  "generated_at": "2026-08-03T05:15:35.738Z",
+  "total": 1,
+  "items": [
+    {
+      "id": 10,
+      "name": "AL L1000 PRO",
+      "manufacturer": "ACELITES",
+      "type": "UNSPECIFIED",
+      "power_w": 1150,
+      "power_modes": null,
+      "weight_kg": 35,
+      "height_cm": 76.7,
+      "width_cm": 41.7,
+      "light_source": null,
+      "beam_angle": "6°–56°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    }
+  ]
 }
