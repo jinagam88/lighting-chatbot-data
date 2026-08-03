@@ -1,9 +1,120 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:15:37.459Z",
-  "total": 5,
+  "generated_at": "2026-08-03T05:15:39.373Z",
+  "total": 11,
   "items": [
+    {
+      "id": 18,
+      "name": "ROBIN 1200 LEDWash",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 680,
+      "power_modes": null,
+      "weight_kg": 18,
+      "height_cm": 57,
+      "width_cm": 43.9,
+      "light_source": null,
+      "beam_angle": "8°–63°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 17,
+      "name": "HY B-EYE K15",
+      "manufacturer": "Claypaky",
+      "type": "UNSPECIFIED",
+      "power_w": 700,
+      "power_modes": null,
+      "weight_kg": 20.7,
+      "height_cm": 43.8,
+      "width_cm": 39.1,
+      "light_source": null,
+      "beam_angle": "4°-60°",
+      "illuminance": [
+        "13500 lm"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 16,
+      "name": "Spiider",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 660,
+      "power_modes": null,
+      "weight_kg": 13.3,
+      "height_cm": 47.7,
+      "width_cm": 39,
+      "light_source": null,
+      "beam_angle": "4°–50°",
+      "illuminance": [
+        "13.700 lm (integrating sphere)",
+        "11.000 lm (goniophotometer)"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-D",
+          "name": "TS-D"
+        },
+        {
+          "code": "TS-1",
+          "name": "TS-1"
+        },
+        {
+          "code": "TS-4",
+          "name": "TS-4"
+        },
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 15,
+      "name": "MMX Spot",
+      "manufacturer": "Robe Lighting",
+      "type": "UNSPECIFIED",
+      "power_w": 1020,
+      "power_modes": null,
+      "weight_kg": 25.5,
+      "height_cm": 72.2,
+      "width_cm": 44.6,
+      "light_source": null,
+      "beam_angle": "8.5°–46.5°",
+      "illuminance": [
+        "26141 lm"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": 14,
       "name": "ESPRITE",
@@ -115,6 +226,54 @@
       "width_cm": 41.7,
       "light_source": null,
       "beam_angle": "6°–56°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 7,
+      "name": "Sharpy",
+      "manufacturer": "Clay Paky",
+      "type": "MOVING",
+      "power_w": 440,
+      "power_modes": null,
+      "weight_kg": 16,
+      "height_cm": 47.5,
+      "width_cm": 34.5,
+      "light_source": "189W 램프",
+      "beam_angle": "0°–3.8°",
+      "illuminance": [
+        "59,760 lx @ 20m"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 1,
+      "name": "BMFL Spot",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 1300,
+      "power_modes": null,
+      "weight_kg": 37,
+      "height_cm": 0,
+      "width_cm": 0,
+      "light_source": "BMFL 디스차지",
+      "beam_angle": "5°–55°",
       "illuminance": null,
       "verified": true,
       "has_manual": false,
