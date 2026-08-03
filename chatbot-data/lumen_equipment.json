@@ -1,9 +1,108 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:15:35.738Z",
-  "total": 1,
+  "generated_at": "2026-08-03T05:15:37.459Z",
+  "total": 5,
   "items": [
+    {
+      "id": 14,
+      "name": "ESPRITE",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 950,
+      "power_modes": null,
+      "weight_kg": 28.2,
+      "height_cm": 73.3,
+      "width_cm": 44.3,
+      "light_source": null,
+      "beam_angle": "5.5°-50°",
+      "illuminance": [
+        "34.000 lm (integrating sphere)",
+        "27.000 lm (goniophotometer)"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-D",
+          "name": "TS-D"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 13,
+      "name": "VL3600",
+      "manufacturer": "Vari-Lite",
+      "type": "UNSPECIFIED",
+      "power_w": 1475,
+      "power_modes": null,
+      "weight_kg": 48,
+      "height_cm": 79.9,
+      "width_cm": 34,
+      "light_source": null,
+      "beam_angle": "5.5°–50°",
+      "illuminance": [
+        "108,000 lx @ 5m"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 12,
+      "name": "VL2600 SPOT",
+      "manufacturer": "Vari-Lite",
+      "type": "UNSPECIFIED",
+      "power_w": 820,
+      "power_modes": null,
+      "weight_kg": 33,
+      "height_cm": 71.5,
+      "width_cm": 46.4,
+      "light_source": null,
+      "beam_angle": "7°–48°",
+      "illuminance": [
+        "49,075 lux (4,559 fc) @ 5 m"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": 11,
+      "name": "EURUS",
+      "manufacturer": "AYRTON",
+      "type": "UNSPECIFIED",
+      "power_w": 900,
+      "power_modes": null,
+      "weight_kg": 32.9,
+      "height_cm": 74.268,
+      "width_cm": 44.52,
+      "light_source": null,
+      "beam_angle": "4.5°–50°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-15",
+          "name": "TS-15"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": 10,
       "name": "AL L1000 PRO",
