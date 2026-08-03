@@ -1,23 +1,233 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T06:29:43.274Z",
+  "generated_at": "2026-08-03T06:29:48.042Z",
   "total": 11,
   "items": [
     {
-      "id": "1",
-      "name": "BMFL Spot",
+      "id": "10",
+      "name": "ROBIN 1200 LEDWash",
       "manufacturer": "Robe",
-      "type": "UNSPECIFIED",
-      "power_w": 1300,
+      "type": "MOVING",
+      "power_w": 680,
       "power_modes": null,
-      "weight_kg": "37.00",
-      "height_cm": "0.00",
-      "width_cm": "0.00",
-      "light_source": "BMFL 디스차지",
-      "beam_angle": "5°–55°",
+      "weight_kg": "18.00",
+      "height_cm": "57.00",
+      "width_cm": "43.90",
+      "light_source": null,
+      "beam_angle": "8°–63°",
       "illuminance": null,
-      "verified": true,
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "11",
+      "name": "HY B-EYE K15",
+      "manufacturer": "Claypaky",
+      "type": "MOVING",
+      "power_w": 700,
+      "power_modes": null,
+      "weight_kg": "20.70",
+      "height_cm": "43.80",
+      "width_cm": "39.10",
+      "light_source": null,
+      "beam_angle": "4°-60°",
+      "illuminance": [
+        "13500 lm"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "12",
+      "name": "Spiider",
+      "manufacturer": "Robe",
+      "type": "MOVING",
+      "power_w": 660,
+      "power_modes": null,
+      "weight_kg": "13.30",
+      "height_cm": "47.70",
+      "width_cm": "39.00",
+      "light_source": null,
+      "beam_angle": "4°–50°",
+      "illuminance": [
+        "13.700 lm (integrating sphere)",
+        "11.000 lm (goniophotometer)"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-D",
+          "name": "TS-D"
+        },
+        {
+          "code": "TS-1",
+          "name": "TS-1"
+        },
+        {
+          "code": "TS-4",
+          "name": "TS-4"
+        },
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "13",
+      "name": "MMX Spot",
+      "manufacturer": "Robe Lighting",
+      "type": "MOVING",
+      "power_w": 1020,
+      "power_modes": null,
+      "weight_kg": "25.50",
+      "height_cm": "72.20",
+      "width_cm": "44.60",
+      "light_source": null,
+      "beam_angle": "8.5°–46.5°",
+      "illuminance": [
+        "26141 lm"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "14",
+      "name": "ESPRITE",
+      "manufacturer": "Robe",
+      "type": "MOVING",
+      "power_w": 950,
+      "power_modes": null,
+      "weight_kg": "28.20",
+      "height_cm": "73.30",
+      "width_cm": "44.30",
+      "light_source": null,
+      "beam_angle": "5.5°-50°",
+      "illuminance": [
+        "34.000 lm (integrating sphere)",
+        "27.000 lm (goniophotometer)"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-D",
+          "name": "TS-D"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "15",
+      "name": "VL3600",
+      "manufacturer": "Vari-Lite",
+      "type": "MOVING",
+      "power_w": 1475,
+      "power_modes": null,
+      "weight_kg": "48.00",
+      "height_cm": "79.90",
+      "width_cm": "34.00",
+      "light_source": null,
+      "beam_angle": "5.5°–50°",
+      "illuminance": [
+        "108,000 lx @ 5m"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "16",
+      "name": "VL2600 SPOT",
+      "manufacturer": "Vari-Lite",
+      "type": "MOVING",
+      "power_w": 820,
+      "power_modes": null,
+      "weight_kg": "33.00",
+      "height_cm": "71.50",
+      "width_cm": "46.40",
+      "light_source": null,
+      "beam_angle": "7°–48°",
+      "illuminance": [
+        "49,075 lux (4,559 fc) @ 5 m"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "17",
+      "name": "EURUS",
+      "manufacturer": "AYRTON",
+      "type": "MOVING",
+      "power_w": 900,
+      "power_modes": null,
+      "weight_kg": "32.90",
+      "height_cm": "74.27",
+      "width_cm": "44.52",
+      "light_source": null,
+      "beam_angle": "4.5°–50°",
+      "illuminance": null,
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-15",
+          "name": "TS-15"
+        }
+      ],
+      "updated_at": null
+    },
+    {
+      "id": "18",
+      "name": "AL L1000 PRO",
+      "manufacturer": "ACELITES",
+      "type": "MOVING",
+      "power_w": 1150,
+      "power_modes": null,
+      "weight_kg": "35.00",
+      "height_cm": "76.70",
+      "width_cm": "41.70",
+      "light_source": null,
+      "beam_angle": "6°–56°",
+      "illuminance": null,
+      "verified": false,
       "has_manual": false,
       "studios": [
         {
@@ -42,7 +252,7 @@
       "illuminance": [
         "59,760 lx @ 20m"
       ],
-      "verified": true,
+      "verified": false,
       "has_manual": false,
       "studios": [
         {
@@ -53,229 +263,19 @@
       "updated_at": null
     },
     {
-      "id": "18",
-      "name": "AL L1000 PRO",
-      "manufacturer": "ACELITES",
-      "type": "UNSPECIFIED",
-      "power_w": 1150,
-      "power_modes": null,
-      "weight_kg": "35.00",
-      "height_cm": "76.70",
-      "width_cm": "41.70",
-      "light_source": null,
-      "beam_angle": "6°–56°",
-      "illuminance": null,
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "KBS홀",
-          "name": "KBS홀"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "17",
-      "name": "EURUS",
-      "manufacturer": "AYRTON",
-      "type": "UNSPECIFIED",
-      "power_w": 900,
-      "power_modes": null,
-      "weight_kg": "32.90",
-      "height_cm": "74.27",
-      "width_cm": "44.52",
-      "light_source": null,
-      "beam_angle": "4.5°–50°",
-      "illuminance": null,
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "TS-15",
-          "name": "TS-15"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "16",
-      "name": "VL2600 SPOT",
-      "manufacturer": "Vari-Lite",
-      "type": "UNSPECIFIED",
-      "power_w": 820,
-      "power_modes": null,
-      "weight_kg": "33.00",
-      "height_cm": "71.50",
-      "width_cm": "46.40",
-      "light_source": null,
-      "beam_angle": "7°–48°",
-      "illuminance": [
-        "49,075 lux (4,559 fc) @ 5 m"
-      ],
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "KBS홀",
-          "name": "KBS홀"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "15",
-      "name": "VL3600",
-      "manufacturer": "Vari-Lite",
-      "type": "UNSPECIFIED",
-      "power_w": 1475,
-      "power_modes": null,
-      "weight_kg": "48.00",
-      "height_cm": "79.90",
-      "width_cm": "34.00",
-      "light_source": null,
-      "beam_angle": "5.5°–50°",
-      "illuminance": [
-        "108,000 lx @ 5m"
-      ],
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "KBS홀",
-          "name": "KBS홀"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "14",
-      "name": "ESPRITE",
+      "id": "1",
+      "name": "BMFL Spot",
       "manufacturer": "Robe",
-      "type": "UNSPECIFIED",
-      "power_w": 950,
+      "type": "MOVING",
+      "power_w": 1300,
       "power_modes": null,
-      "weight_kg": "28.20",
-      "height_cm": "73.30",
-      "width_cm": "44.30",
-      "light_source": null,
-      "beam_angle": "5.5°-50°",
-      "illuminance": [
-        "34.000 lm (integrating sphere)",
-        "27.000 lm (goniophotometer)"
-      ],
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "TS-D",
-          "name": "TS-D"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "13",
-      "name": "MMX Spot",
-      "manufacturer": "Robe Lighting",
-      "type": "UNSPECIFIED",
-      "power_w": 1020,
-      "power_modes": null,
-      "weight_kg": "25.50",
-      "height_cm": "72.20",
-      "width_cm": "44.60",
-      "light_source": null,
-      "beam_angle": "8.5°–46.5°",
-      "illuminance": [
-        "26141 lm"
-      ],
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "KBS홀",
-          "name": "KBS홀"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "12",
-      "name": "Spiider",
-      "manufacturer": "Robe",
-      "type": "UNSPECIFIED",
-      "power_w": 660,
-      "power_modes": null,
-      "weight_kg": "13.30",
-      "height_cm": "47.70",
-      "width_cm": "39.00",
-      "light_source": null,
-      "beam_angle": "4°–50°",
-      "illuminance": [
-        "13.700 lm (integrating sphere)",
-        "11.000 lm (goniophotometer)"
-      ],
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "TS-D",
-          "name": "TS-D"
-        },
-        {
-          "code": "TS-1",
-          "name": "TS-1"
-        },
-        {
-          "code": "TS-4",
-          "name": "TS-4"
-        },
-        {
-          "code": "KBS홀",
-          "name": "KBS홀"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "11",
-      "name": "HY B-EYE K15",
-      "manufacturer": "Claypaky",
-      "type": "UNSPECIFIED",
-      "power_w": 700,
-      "power_modes": null,
-      "weight_kg": "20.70",
-      "height_cm": "43.80",
-      "width_cm": "39.10",
-      "light_source": null,
-      "beam_angle": "4°-60°",
-      "illuminance": [
-        "13500 lm"
-      ],
-      "verified": true,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "KBS홀",
-          "name": "KBS홀"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "10",
-      "name": "ROBIN 1200 LEDWash",
-      "manufacturer": "Robe",
-      "type": "UNSPECIFIED",
-      "power_w": 680,
-      "power_modes": null,
-      "weight_kg": "18.00",
-      "height_cm": "57.00",
-      "width_cm": "43.90",
-      "light_source": null,
-      "beam_angle": "8°–63°",
+      "weight_kg": "37.00",
+      "height_cm": null,
+      "width_cm": null,
+      "light_source": "BMFL 디스차지",
+      "beam_angle": "5°–55°",
       "illuminance": null,
-      "verified": true,
+      "verified": false,
       "has_manual": false,
       "studios": [
         {
