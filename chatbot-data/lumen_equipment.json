@@ -1,9 +1,35 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:39:44.615Z",
-  "total": 4,
+  "generated_at": "2026-08-03T05:39:46.354Z",
+  "total": 5,
   "items": [
+    {
+      "id": "14",
+      "name": "ESPRITE",
+      "manufacturer": "Robe",
+      "type": "UNSPECIFIED",
+      "power_w": 950,
+      "power_modes": null,
+      "weight_kg": "28.20",
+      "height_cm": "73.30",
+      "width_cm": "44.30",
+      "light_source": null,
+      "beam_angle": "5.5°-50°",
+      "illuminance": [
+        "34.000 lm (integrating sphere)",
+        "27.000 lm (goniophotometer)"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-D",
+          "name": "TS-D"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "13",
       "name": "MMX Spot",
