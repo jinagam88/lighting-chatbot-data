@@ -1,9 +1,32 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-03T05:39:50.904Z",
-  "total": 7,
+  "generated_at": "2026-08-03T05:39:52.821Z",
+  "total": 8,
   "items": [
+    {
+      "id": "17",
+      "name": "EURUS",
+      "manufacturer": "AYRTON",
+      "type": "UNSPECIFIED",
+      "power_w": 900,
+      "power_modes": null,
+      "weight_kg": "32.90",
+      "height_cm": "74.27",
+      "width_cm": "44.52",
+      "light_source": null,
+      "beam_angle": "4.5°–50°",
+      "illuminance": null,
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-15",
+          "name": "TS-15"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "16",
       "name": "VL2600 SPOT",
