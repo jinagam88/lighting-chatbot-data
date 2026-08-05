@@ -1,9 +1,34 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-05T11:08:25.152Z",
-  "total": 13,
+  "generated_at": "2026-08-05T11:13:58.223Z",
+  "total": 14,
   "items": [
+    {
+      "id": "44",
+      "name": "ACME TORNADO (TB 5 IP)",
+      "manufacturer": "ACME Lighting",
+      "type": "MOVING",
+      "power_w": 935,
+      "power_modes": null,
+      "weight_kg": "30.00",
+      "height_cm": "35.00",
+      "width_cm": "100.00",
+      "light_source": "5 x 120W RGBL LEDs + 120 x 0.5W RGB LEDs",
+      "beam_angle": "3°-30°",
+      "illuminance": [
+        "13000 lm"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-15",
+          "name": "TS-15"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "25",
       "name": "A.LEDA B-EYE K10 Easy",
