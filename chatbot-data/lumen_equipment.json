@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-05T08:01:21.835Z",
+  "generated_at": "2026-08-05T08:13:21.006Z",
   "total": 11,
   "items": [
     {
@@ -43,7 +43,7 @@
       "beam_angle": "8°–63°",
       "illuminance": null,
       "verified": false,
-      "has_manual": false,
+      "has_manual": true,
       "studios": [
         {
           "code": "KBS홀",
