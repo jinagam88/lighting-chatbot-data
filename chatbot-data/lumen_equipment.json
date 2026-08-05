@@ -1,9 +1,51 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-05T08:47:11.960Z",
+  "generated_at": "2026-08-05T09:00:15.155Z",
   "total": 12,
   "items": [
+    {
+      "id": "12",
+      "name": "Spiider",
+      "manufacturer": "Robe",
+      "type": "MOVING",
+      "power_w": 660,
+      "power_modes": null,
+      "weight_kg": "13.30",
+      "height_cm": "47.70",
+      "width_cm": "39.00",
+      "light_source": null,
+      "beam_angle": "4°–50°",
+      "illuminance": [
+        "13.700 lm (integrating sphere)",
+        "11.000 lm (goniophotometer)"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-15",
+          "name": "TS-15"
+        },
+        {
+          "code": "TS-D",
+          "name": "TS-D"
+        },
+        {
+          "code": "TS-1",
+          "name": "TS-1"
+        },
+        {
+          "code": "TS-4",
+          "name": "TS-4"
+        },
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "26",
       "name": "FORTE® (HP Engine)",
@@ -96,44 +138,6 @@
       "verified": false,
       "has_manual": true,
       "studios": [
-        {
-          "code": "KBS홀",
-          "name": "KBS홀"
-        }
-      ],
-      "updated_at": null
-    },
-    {
-      "id": "12",
-      "name": "Spiider",
-      "manufacturer": "Robe",
-      "type": "MOVING",
-      "power_w": 660,
-      "power_modes": null,
-      "weight_kg": "13.30",
-      "height_cm": "47.70",
-      "width_cm": "39.00",
-      "light_source": null,
-      "beam_angle": "4°–50°",
-      "illuminance": [
-        "13.700 lm (integrating sphere)",
-        "11.000 lm (goniophotometer)"
-      ],
-      "verified": false,
-      "has_manual": false,
-      "studios": [
-        {
-          "code": "TS-D",
-          "name": "TS-D"
-        },
-        {
-          "code": "TS-1",
-          "name": "TS-1"
-        },
-        {
-          "code": "TS-4",
-          "name": "TS-4"
-        },
         {
           "code": "KBS홀",
           "name": "KBS홀"
