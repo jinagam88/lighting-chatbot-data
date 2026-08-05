@@ -1,9 +1,35 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-05T08:21:02.479Z",
-  "total": 11,
+  "generated_at": "2026-08-05T08:47:11.960Z",
+  "total": 12,
   "items": [
+    {
+      "id": "26",
+      "name": "FORTE® (HP Engine)",
+      "manufacturer": "Robe",
+      "type": "MOVING",
+      "power_w": 1250,
+      "power_modes": null,
+      "weight_kg": "41.00",
+      "height_cm": "84.30",
+      "width_cm": "48.35",
+      "light_source": "TE™ 1.000W HP White LED Engine",
+      "beam_angle": "5°-55°",
+      "illuminance": [
+        "50000 lm (integrating sphere)",
+        "40000 lm (goniophotometer)"
+      ],
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-15",
+          "name": "TS-15"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "16",
       "name": "VL2600 SPOT",
