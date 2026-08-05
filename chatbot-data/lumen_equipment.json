@@ -1,9 +1,34 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-05T08:20:44.719Z",
-  "total": 10,
+  "generated_at": "2026-08-05T08:21:02.479Z",
+  "total": 11,
   "items": [
+    {
+      "id": "16",
+      "name": "VL2600 SPOT",
+      "manufacturer": "Vari-Lite",
+      "type": "UNSPECIFIED",
+      "power_w": 820,
+      "power_modes": null,
+      "weight_kg": "33.00",
+      "height_cm": "71.50",
+      "width_cm": "46.40",
+      "light_source": null,
+      "beam_angle": "7°–48°",
+      "illuminance": [
+        "49,075 lux (4,559 fc) @ 5 m"
+      ],
+      "verified": true,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "KBS홀",
+          "name": "KBS홀"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "11",
       "name": "HY B-EYE K15",
