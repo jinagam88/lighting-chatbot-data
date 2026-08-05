@@ -1,9 +1,32 @@
 {
   "schema_version": "1.0",
   "source": "LUMEN 조명 장비 포탈",
-  "generated_at": "2026-08-05T10:53:50.509Z",
-  "total": 12,
+  "generated_at": "2026-08-05T11:08:25.152Z",
+  "total": 13,
   "items": [
+    {
+      "id": "25",
+      "name": "A.LEDA B-EYE K10 Easy",
+      "manufacturer": "Claypaky",
+      "type": "MOVING",
+      "power_w": 450,
+      "power_modes": null,
+      "weight_kg": "0.00",
+      "height_cm": null,
+      "width_cm": null,
+      "light_source": "19x 15W RGBW LED engines",
+      "beam_angle": "4°-60°",
+      "illuminance": null,
+      "verified": false,
+      "has_manual": false,
+      "studios": [
+        {
+          "code": "TS-15",
+          "name": "TS-15"
+        }
+      ],
+      "updated_at": null
+    },
     {
       "id": "12",
       "name": "Spiider",
